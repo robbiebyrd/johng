@@ -1,4 +1,4 @@
-var JohnG = class {
+class JohnG {
     /**
      * Creates a new JohnG instance
      * @param  {integer} start=0 - The point from which the clock should start
